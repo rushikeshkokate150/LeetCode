@@ -17,5 +17,4 @@ class Solution:
             else:
                 dict2[t[i]]+=1
                 
-
         return dict1 == dict2
